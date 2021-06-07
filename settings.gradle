@@ -1,3 +1,4 @@
 rootProject.name = 'gof'
 include 'abstract-factory'
+include 'factory-method'
 
