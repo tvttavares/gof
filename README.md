@@ -11,3 +11,7 @@
 * [Prototype](https://github.com/tvttavares/gof/tree/master/prototype). Creates a new object from an existing object.
 
 * [Singleton](https://github.com/tvttavares/gof/tree/master/singleton). Ensures only one instance of an object is created.
+
+## Structural Design Patterns
+
+* [Adapter](https://github.com/tvttavares/gof/tree/master/adapter). Allows for two incompatible classes to work together by wrapping an interface around one of the existing classes.
