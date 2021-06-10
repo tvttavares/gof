@@ -8,4 +8,6 @@
 
 * [Factory Method](https://github.com/tvttavares/gof/tree/master/factory-method). Create objects without specifying the exact class to create.
 
+* [Prototype](https://github.com/tvttavares/gof/tree/master/prototype). Creates a new object from an existing object.
+
 * [Singleton](https://github.com/tvttavares/gof/tree/master/singleton). Ensures only one instance of an object is created.
