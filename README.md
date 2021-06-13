@@ -17,3 +17,5 @@
 * [Adapter](https://github.com/tvttavares/gof/tree/master/adapter). Allows for two incompatible classes to work together by wrapping an interface around one of the existing classes.
 
 * [Bridge](https://github.com/tvttavares/gof/tree/master/bridge). Decouples an abstraction so two classes can vary independently.
+
+* [Composite](https://github.com/tvttavares/gof/tree/master/composite). Takes a group of objects into a single object.

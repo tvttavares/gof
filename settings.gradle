@@ -6,4 +6,5 @@ include 'builder'
 include 'prototype'
 include 'adapter'
 include 'bridge'
+include 'composite'
 
