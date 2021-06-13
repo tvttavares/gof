@@ -5,4 +5,5 @@ include 'singleton'
 include 'builder'
 include 'prototype'
 include 'adapter'
+include 'bridge'
 
