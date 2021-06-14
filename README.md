@@ -19,3 +19,5 @@
 * [Bridge](https://github.com/tvttavares/gof/tree/master/bridge). Decouples an abstraction so two classes can vary independently.
 
 * [Composite](https://github.com/tvttavares/gof/tree/master/composite). Takes a group of objects into a single object.
+
+* [Decorator](https://github.com/tvttavares/gof/tree/master/decorator). Allows for an object’s behavior to be extended dynamically at run time.
