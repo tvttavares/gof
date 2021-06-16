@@ -21,3 +21,7 @@
 * [Composite](https://github.com/tvttavares/gof/tree/master/composite). Takes a group of objects into a single object.
 
 * [Decorator](https://github.com/tvttavares/gof/tree/master/decorator). Allows for an object’s behavior to be extended dynamically at run time.
+
+## Structural Design Patterns
+
+* [Chain of Responsibility](https://github.com/tvttavares/gof/tree/master/chain-of-responsibility). Delegate commands to a chain of processing objects.
