@@ -22,6 +22,8 @@
 
 * [Decorator](https://github.com/tvttavares/gof/tree/master/decorator). Allows for an object’s behavior to be extended dynamically at run time.
 
+* [Facade](https://github.com/tvttavares/gof/tree/master/facade). Provides a simple interface to a more complex underlying object.
+
 ## Structural Design Patterns
 
 * [Chain of Responsibility](https://github.com/tvttavares/gof/tree/master/chain-of-responsibility). Delegate commands to a chain of processing objects.

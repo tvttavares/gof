@@ -9,4 +9,5 @@ include 'bridge'
 include 'composite'
 include 'decorator'
 include 'chain-of-responsability'
+include 'facade'
 
