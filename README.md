@@ -24,6 +24,8 @@
 
 * [Facade](https://github.com/tvttavares/gof/tree/master/facade). Provides a simple interface to a more complex underlying object.
 
+* [Flyweight](https://github.com/tvttavares/gof/tree/master/flyweight). Reduces the cost of complex object models.
+
 ## Structural Design Patterns
 
 * [Chain of Responsibility](https://github.com/tvttavares/gof/tree/master/chain-of-responsibility). Delegate commands to a chain of processing objects.
