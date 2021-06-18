@@ -11,4 +11,5 @@ include 'decorator'
 include 'chain-of-responsability'
 include 'facade'
 include 'flyweight'
+include 'proxy'
 
