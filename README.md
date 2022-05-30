@@ -29,3 +29,5 @@
 ## Structural Design Patterns
 
 * [Chain of Responsibility](https://github.com/tvttavares/gof/tree/master/chain-of-responsibility). Delegate commands to a chain of processing objects.
+
+* [Command](https://github.com/tvttavares/gof/tree/master/command). Create objects which encapsulate actions and parameters.

@@ -12,4 +12,5 @@ include 'chain-of-responsability'
 include 'facade'
 include 'flyweight'
 include 'proxy'
+include 'command'
 
